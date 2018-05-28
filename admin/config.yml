@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: pirati-web/trebicsko.pirati.cz
-  branch: gh-pages
+  branch: master
   base_url: https://piraweboauth.herokuapp.com
 
 media_folder: "assets/img/posts"

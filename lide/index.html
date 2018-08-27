@@ -10,7 +10,7 @@ layout: default
                     <div class="c-BasicPage">
                         <div class="c-BasicPage-content">
                           <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                              <li class="c-simple-accordion-item" data-accordion-item="">
+                              <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#rp" class="c-simple-accordion-title">Předsednictvo místního sdružení</a>
                                   <div id="rp" class="c-simple-accordion-content" data-tab-content="">
                                       {% assign team = site.people | where_exp:"item","item.categories contains 'trebic'" | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}

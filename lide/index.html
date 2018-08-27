@@ -13,7 +13,7 @@ layout: default
                               <li class="c-simple-accordion-item" data-accordion-item="">
                                   <a href="#rp" class="c-simple-accordion-title">Předsednictvo místního sdružení</a>
                                   <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
+                                      {% assign team = site.people | where_exp:"item","item.categories contains 'trebic'" | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
                                       {% include people/list-2col.html param=team %}
                                   </div>
                               </li>
@@ -22,7 +22,7 @@ layout: default
                               <li class="c-simple-accordion-item" data-accordion-item="">
                                   <a href="#senat" class="c-simple-accordion-title">Krajské předsednictvo</a>
                                   <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" |  where_exp:"item","item.categories contains 'mc'" | sort:"ordsenat" %}
+                                      {% assign team = site.people | where_exp:"item","item.categories contains 'vysocina'" |  where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
                                       {% include people/list-2col.html param=team %}
                                   </div>
                               </li>

@@ -1,0 +1,99 @@
+top:
+  - link: "pirati.cz"
+    url:  "https://www.pirati.cz"
+    icon: "fa fa-home"
+  - link: "wiki.pirati.cz"
+    url:  "https://wiki.pirati.cz/regiony/vysocina/start"
+    icon: "fa fa-home"
+  - link: "Pirátské listy"
+    url:  "http://www.piratskelisty.cz"
+    icon: "fa fa-newspaper-o"
+  - link: "Nalodění"
+    url:  "http://nalodeni.pirati.cz"
+    icon: "fa fa-anchor"
+
+main:
+  - link: /aktuality/
+    name: Aktuality
+    match: aktuality
+  - link: /lide/
+    name: O nás
+    match: lide
+    submenu:
+      - link: /lide/pks/
+        name: Krajské předsednictvo
+        match: pks
+      - link: /lide/mo/
+        name: Mediální odbor
+        match: mo
+      - link: /lide/ms/
+        name: Místní sdružení
+        match: ms
+  - link: /komunalni-volby/
+    name: Komunální volby
+    match: komunalni-volby
+    submenu:
+      - link: /komunalni-volby/jihlava/
+        name: Jihlava
+        match: jihlava    
+      - link: /komunalni-volby/trebic/
+        name: Třebíč
+        match: trebic        
+      - link: /komunalni-volby/havlbrod/
+        name: Havlíčkův Brod
+        match: havlbrod        
+      - link: /komunalni-volby/nmnm/
+        name: Nové Město na Moravě
+        match: nmnm        
+      - link: /komunalni-volby/chotebor/
+        name: Chotěboř
+        match: chotebor
+      - link: /komunalni-volby/telc/
+        name: Telč
+        match: telc        
+      - link: /komunalni-volby/jaromerice/
+        name: Jaroměřice nad Rokytnou
+        match: jaromerice
+      - link: /komunalni-volby/obce/
+        name: Ostatní obce
+        match: obce  
+  - link: /senatni-volby/
+    name: Senátní volby
+    match: senatni-volby
+    submenu:
+      - link: /lide/roman-semik/
+        name: Obvod č. 44 - Chrudim
+        match: roman-semik
+      - link: /lide/michal-salomoun/
+        name: Obvod č. 53 - Třebíč
+        match: michal-salomoun
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+bottom:
+  - class: small-12 medium-4
+    title: Připoj se
+    links:
+      - link: /kontakt/
+        name: Dej nám vědět
+      - link: https://nalodeni.pirati.cz
+        name: Nalodění
+  - class: small-12 medium-4
+    title: Makáme
+    links:
+      - link: /lide/
+        name: Lidé
+      - link: /komunalni-volby/
+        name: Volby
+      - link: /aktuality/
+        name: Aktuality
+  - class: small-12 medium-4
+    title: Otevřenost
+    links:
+      - link: https://ucet.pirati.cz
+        name: Transparentní účet
+      - link: https://smlouvy.pirati.cz
+        name: Registr smluv
+      - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
+        name: Otevřené účetnictví

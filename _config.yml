@@ -1,15 +1,103 @@
-title: Pirátská strana Třebíčsko
-email: to@pirati.cz
-description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://trebicsko.pirati.cz" # the base hostname & protocol for your site
+title: Pirátská strana Vysočina
+email: pirati.vysocina@gmail.com
+description: >-
+  Oficiální stránka Místního sdružení Třebíčsko České pirátské strany
+# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+keywords: piráti, česká pirátská strana, svoboda, demokracie, třebíčsko, piráti na třebíčsku, třebíč, piráti v třebíči
+
+administrator:
+  email: pirati.vysocina@gmail.com # mail kam pujdou chybove vystupy
+
+organization:
+  name: Krajské sdružení Vysočina
+  shortName: Krajské sdružení Vysočina
+  contactUid: michaela.vodova
+  email: michaela.vodova@pirati.cz
+  phone: +420 602 276 233
+  address: 
+    Matky Boží 9,
+    Jihlava
+  residenceImg:
+  mapLink: https://goo.gl/maps/uCjxZoD47N82
+  redmineLink: https://redmine.pirati.cz/projects/kraj-vysocina/issues/new
+  # dataBoxId: b2i4r6j
+  # transparentAccount: 2100048174/2010
+
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  #- type: organizationRedmineLink
+  - type: organizationPhone
+  #- type: organizationTransparentAccount
+  #  includeMoreLink: true
+  #- type: organizationDataBox
+  - type: piratiRootWebsite
+  - type: custom
+ #  iconClass: fa fa-envelope
+ #  label: Vlastní řádek tabulky
+ #  body: <a href="http://example.com">link</a>
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Kalendář Pirátů z Vysočiny
+  id: r26esfjiivuu9temt46dholqhs@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=r26esfjiivuu9temt46dholqhs%40group.calendar.google.com&ctz=Europe%2FPrague
+
+facebook:
+  loadSDK: true
+  profilePage: https://www.facebook.com/piratitrebicsko
+  profilePageName: Piráti Třebíčsko
+  #appId: 284247164921991
+
+twitter:
+  loadSDK: true
+  profile: pirativys
+
+# instagram:
+#  profilePage: https://www.instagram.com/pirati.cz/
+
+# gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
+
+# flicker:
+#  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/viewforum.php?f=915
+
+github:
+  url: https://github.com/pirati-web/trebicsko.pirati.cz/
+  branch: master
+
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
 
 markdown: kramdown
-
-gems:
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -17,63 +105,62 @@ exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - bower.json
-  - gulpfile.js
-  - node_modules
-  - bower_components
   - vendor
 
-sass:
-    style: compressed
-
-permalink: /:title.html
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
-  projects:
+
+  program:
     output: true
-    permalink: /nalod-se/:path/
+    permalink: /komunalni-volby/program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
-      layout: "page"
-      rbar: "people, foto"
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+          #  - people
   -
     scope:
-      path: "_teams"
+      path: "_program"
     values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
-
-calendar:
-fb: https://www.facebook.com/piratitrebicsko/
-tw: pirativys
-
-title-page:
-  big:
-    foto: /assets/img/miscellaneous/featured-penta.gif
-    alt: Nechceme, aby Metro D skončilo jako tunel
-    url: https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html
-  left-top:
-    text: Kdo jsme?
-    url: https://trebicsko.pirati.cz/lide/
-    icon: fa fa-users
-  right-top:
-    text: Piráti ve sněmovně
-    url: https://www.pirati.cz/snemovna/
-    icon: fa fa-newspaper-o u-rotate-345
-  left-bottom:
-    text: Piráti na Třebíčsku
-    url: mestske-casti
-    icon: fa map-signs
-  right-bottom:
-    text: Naloď se
-    url: nalod-se
-    icon: fa fa-bullhorn u-rotate-345
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 emptyArray: []
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.4.0/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass

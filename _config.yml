@@ -1,4 +1,4 @@
-title: Pirátská strana Vysočina
+title: Pirátská strana Třebíčsko
 email: pirati.vysocina@gmail.com
 description: >-
   Oficiální stránka Místního sdružení Třebíčsko České pirátské strany
@@ -9,8 +9,8 @@ administrator:
   email: pirati.vysocina@gmail.com # mail kam pujdou chybove vystupy
 
 organization:
-  name: Krajské sdružení Vysočina
-  shortName: Krajské sdružení Vysočina
+  name: Místní sdružení Třebíčsko
+  shortName: MS Třebíčsko
   contactUid: michaela.vodova
   email: michaela.vodova@pirati.cz
   phone: +420 602 276 233
@@ -54,9 +54,9 @@ facebook:
   profilePageName: Piráti Třebíčsko
   #appId: 284247164921991
 
-twitter:
-  loadSDK: true
-  profile: pirativys
+# twitter:
+#  loadSDK: true
+#  profile: pirativys
 
 # instagram:
 #  profilePage: https://www.instagram.com/pirati.cz/

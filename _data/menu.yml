@@ -33,13 +33,18 @@ main:
       - link: /komunalni-volby/jaromerice/
         name: Jaroměřice nad Rokytnou
         match: jaromerice
-      - link: /komunalni-volby/obce/
-        name: Ostatní obce
-        match: obce  
+      - link: /komunalni-volby/cechtin/
+        name: Čechtín
+        match: cechtin  
+      - link: /komunalni-volby/chlum/
+        name: Chlum
+        match: chlum
+      - link: /komunalni-volby/lhotice/
+        name: Lhotice
+        match: lhotice
   - link: /senatni-volby/
     name: Senátní volby
     match: senatni-volby
-    submenu:
   - link: /kontakt/
     name: Kontakt
     match: kontakt

@@ -84,7 +84,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
       </div>
       <div class="c-program-candidates">
         <div class="c-program-candidate-badge">
-          <a class="c-program-candidate-badge__body" href="https://trebicsko.pirati.cz/komunalni-volby/chlum/">
+          <a class="c-program-candidate-badge__body" href="https://trebicsko.pirati.cz/lide/michaela-vodova/">
             <div class="c-program-candidate-badge__avatar">
               <img src="{{ "/assets/img/chlum.jpg"  }}" alt="Chlum" class="c-program-candidate-badge__avatar-image">
             </div>

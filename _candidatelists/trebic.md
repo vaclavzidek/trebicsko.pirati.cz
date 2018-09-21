@@ -127,3 +127,4 @@ tail: # zbytek kandidatky
     profession: učitel
     party: TOP 09
 ---
+

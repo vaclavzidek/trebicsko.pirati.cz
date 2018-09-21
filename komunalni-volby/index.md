@@ -128,6 +128,8 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
           </a>
         </div>
       </div>
+      <div class="o-section-header o-section-header--bordered">
+      </div>
     </div>
   </div>      
 </div>      

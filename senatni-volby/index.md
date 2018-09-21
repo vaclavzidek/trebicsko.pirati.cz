@@ -15,7 +15,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
       </div>
 </div>
 
-<br><br>
+<br>
 
 ## Studium
 

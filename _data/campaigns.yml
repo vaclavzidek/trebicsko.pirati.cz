@@ -1,10 +1,11 @@
-# Campaigns are grouped, this usually reperesents situation when multiple
-# election campaings are held at the same time (which saves $$$ for the country).
-
-- groupUid: volby-2018  # identifier of the group, to be used in program point
-  title: Volby 2018     # title of the campaign group
+- groupUid: trebic-2018  
+  title: Komunální volby 2018 
   campaigns:
-    - title: Program na radnici   # individual campaigns within the group
-      categoryUid: praha2018
-    - title: Senát
-      categoryUid: senat
+    - title: Třebíč  
+      categoryUid: trebic2018
+
+- groupUid: jaromerice-2018  
+  title: Komunální volby 2018 
+  campaigns:
+    - title: Jaroměřice nad Rokytnou  
+      categoryUid: jaromerice2018

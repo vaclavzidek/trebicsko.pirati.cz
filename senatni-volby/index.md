@@ -6,7 +6,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 
 ---
 
-[Webové stránky Michala Šalomouna](https://salomoundosenatu.cz/)
+## [Webové stránky Michala Šalomouna](https://salomoundosenatu.cz/)
 
 
 <div class="media-object-section bottom">
@@ -15,7 +15,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
       </div>
 </div>
 
-
+<br><br>
 
 ## Studium
 

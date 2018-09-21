@@ -7,8 +7,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 
 <div class="o-section">
   <div class="row"> 
-    <div class="columns medium-12">          
-        
+    <div class="columns medium-12">                  
       <div class="o-section-header o-section-header--bordered">
       </div>
       <div class="c-program-candidates">
@@ -33,10 +32,6 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
           </a>
         </div>
       </div>
-      
-      
-      
-      
     </div>
   </div>      
 </div>      

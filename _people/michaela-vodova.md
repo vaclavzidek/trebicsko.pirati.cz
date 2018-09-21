@@ -10,7 +10,7 @@ category:
   - kontaktni_osoba
   - rv
   - pks
-  - trebic
+  - mstrebic
   - pmstrebic
 ordpks: 1
 ordpmstrebic: 1

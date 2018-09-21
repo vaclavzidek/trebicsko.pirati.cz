@@ -10,10 +10,10 @@ category:
   - kontaktni_osoba
   - rv
   - pks
-  - mstrebic
-  - pmstrebic
+  - mstrebicsko
+  - pmstrebicsko
 ordpks: 1
-ordpmstrebic: 1
+ordpmstrebicsko: 1
 description: předsedkyně Krajského sdružení Vysočina
 profession: OSVČ, koordinátorka Krajského sdružení Vysočina
 img: people/michaela-vodova.jpg

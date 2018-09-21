@@ -6,11 +6,16 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 
 ---
 
+[Webové stránky Michala Šalomouna](https://salomoundosenatu.cz/)
+
+
 <div class="media-object-section bottom">
       <div class="thumbnail">
         <img src="{{ "/assets/img/senat-michal-salomoun.jpg"  }}" alt="Michal Šalomoun - kandidát do Senátu">
       </div>
 </div>
+
+
 
 ## Studium
 

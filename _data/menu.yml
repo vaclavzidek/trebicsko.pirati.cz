@@ -23,28 +23,25 @@ main:
       - link: /lide/pms/
         name: Místní předsednictvo
         match: pms
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /zastupitele-obci/
+    name: Zastupitelé obcí
+    match: zastupitele-obci
     submenu:
-      - link: /komunalni-volby/trebic/
+      - link: /zastupitele-obci/trebic/
         name: Třebíč
         match: trebic        
-      - link: /komunalni-volby/jaromerice/
+      - link: /zastupitele-obci/jaromerice/
         name: Jaroměřice nad Rokytnou
         match: jaromerice
-      - link: /komunalni-volby/cechtin/
+      - link: /zastupitele-obci/cechtin/
         name: Čechtín
         match: cechtin  
-      - link: /lide/michaela-vodova/
+      - link: /zastupitele-obci/chlum/
         name: Chlum
         match: chlum
-      - link: /komunalni-volby/lhotice/
+      - link: /zastupitele-obci/lhotice/
         name: Lhotice
         match: lhotice
-  - link: /senatni-volby/
-    name: Senátní volby
-    match: senatni-volby
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -62,8 +59,8 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
+      - link: /zastupitele-obci/
+        name: Zastupitelé obcí
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4

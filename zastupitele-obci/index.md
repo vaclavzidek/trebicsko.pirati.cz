@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Komunální volby na Třebíčsku
-description: Kandidátní listiny na Třebíčsku.
-keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
+title: Zastupitelé obcí na Třebíčsku
+description: Zastupitelé obcí na Třebíčsku.
+keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
 ---
 
 <div class="o-section">

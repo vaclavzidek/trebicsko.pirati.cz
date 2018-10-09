@@ -17,7 +17,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, Chlum
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="https://vysocina.pirati.cz/lide/ladislav-stalmach/">
+            href="https://trebicsko.pirati.cz/lide/michaela-vodova/">
 <div class="c-program-candidate-badge__avatar">
 <img 
             src="https://trebicsko.pirati.cz/assets/8a55e6-e963f7969330edf744efe44032d1b079412dfcd34a23eb3109bf5ddc22ca8ef6.jpg" 

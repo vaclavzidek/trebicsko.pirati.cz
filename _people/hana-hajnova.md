@@ -9,7 +9,7 @@ category:
   - kandidat2018
 ordmo: 1
 ordpmstelcsko: 2
-description: 1. místopředsedkyně Místního sdružení Telčsko
+description: vedoucí mediálního odboru Vysočina
 profession: projektová manažerka
 img: people/hana-hajnova.jpg
 mail:

@@ -40,7 +40,7 @@ class="c-program-candidate-badge__avatar-image">
 </div>
 
 
-
+<div class="o-section-header o-section-header--bordered">
 <h3 class="o-section__heading t-h2-super">
             Zdeněk Chroust
 </h3>
@@ -71,7 +71,7 @@ class="c-program-candidate-badge__avatar-image">
 </div>
 
 
-
+<div class="o-section-header o-section-header--bordered">
 <h3 class="o-section__heading t-h2-super">
             Jaroslav Vysoký
 </h3>

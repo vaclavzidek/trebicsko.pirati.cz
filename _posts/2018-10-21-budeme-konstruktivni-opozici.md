@@ -1,12 +1,12 @@
 ---
-date: 2018-10-08
+date: 2018-10-21
 category: blog
 tags: Třebíč
 layout: post
 title: Nepodpoříme nominaci Pacala na starostu budeme konstruktivní opozicí
 author: Jan Břížďala
-authorId: jan.brizdala    # uid nekoho z _people (nepoviné)
-image: posts/2018-10-21-budeme-konstruktivni-opozici.jpg
+# authorId: jan.brizdala    # uid nekoho z _people (nepoviné)
+# image: posts/2018-10-21-budeme-konstruktivni-opozici.jpg
 ---
 
 **V říjnových komunálních volbách byli Roman Pašek a Stanislav Neuman (oba členové Pirátské strany) zvoleni zastupiteli města Třebíče za koaliční kandidátku "Společně otevřeme Třebíč" sdružující nezávislé kandidáty, Piráty a stranu TOP 09. Zátupci této volební strany se v prvních dvou týdnech po volbách sešli postupně se zástupci stran Třebíč Občanům!, ČSSD, Třebíč - můj domov, ODS a TnT - Společně za Třebíč, KDU-ČSL, Břehy a ANO 2011. Během těchto setkání jsme jednotlivým stranám předložili naše podmínky možné spolupráce, které vycházely z našeho volebního programu a deklarovali jsme je již před volbami.**

@@ -3,7 +3,7 @@ date: 2018-10-08
 category: blog
 tags: Třebíč
 layout: post
-title: Nepodpoříme nominaci Pacala na starostu - budeme konstruktivní opozicí
+title: Nepodpoříme nominaci Pacala na starostu budeme konstruktivní opozicí
 author: Jan Břížďala
 authorId: jan.brizdala    # uid nekoho z _people (nepoviné)
 image: posts/2018-10-21-budeme-konstruktivni-opozici.jpg

@@ -22,4 +22,10 @@ profiles:
   
 ---
 
-Stanislav Neuman
+**Stanislav Neuman** je členem MS Třebíčsko. Pochází a žije v Třebíči.
+
+Vystudoval Střední školu stavební Třebíč. Studoval obor Vodní hospodářství a vodní stavby na škole Vysoké učení technické v Brně.
+
+Pracuje jako OSVČ.
+
+V komunální politice by se rád věnoval oblasti sport, volný čas, cestovní ruch, kultura, stavebnictví. 

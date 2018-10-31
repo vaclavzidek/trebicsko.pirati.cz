@@ -8,6 +8,8 @@ category:
 description: člen Místního sdružení Třebíčsko
 profession: 
 img: people/jaroslav-vysoky.jpg
+mail:
+  - jaroslav.vysoky@pirati.cz
 ---
 
 Jaroslav Vysoký narozen 18. února 1982 v Třebíči, od července 2018 jsem členem Pirátské strany. 

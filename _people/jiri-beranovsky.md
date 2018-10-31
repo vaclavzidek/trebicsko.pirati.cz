@@ -22,4 +22,4 @@ profiles:
   
 ---
 
-Jiří Beranovský
+Narodil jsem se v Třebíči dne 30.05.1962, vystudoval jsem SPŠ Stavební a následně nástavbu ekonomický management a správní řád. Jsem soukromý podnikatel OSVČ a pracovně se věnuji stavební činnosti. Mám tři děti ve věku dospělosti a zajímají mě nové technologie ve stavebnictví, různé hudební i filmové žánry a sportuji - kolo, lyže, volejbal, badminton. Rád cestuji, hlavně po Evropě. Žiji v Třebíči a aktivně sleduji a podílím se na společenském a politickém dění. 

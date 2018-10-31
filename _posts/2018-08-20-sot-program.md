@@ -1,12 +1,12 @@
 ---
-date: 2018-08-20
-category: blog
-tags: volby Třebíč
-layout: post
-title: Koalice Společně otevřeme Třebíč představila volební program
-author: Roman Pašek
-authorId: roman.pasek    # uid nekoho z _people (nepoviné)
-image: posts/2018-08-20-sot-program.jpg
+date:       2018-08-20
+category:   blog
+tags:       volby Třebíč
+layout:     post
+title:      Koalice Společně otevřeme Třebíč představila volební program
+author:     Roman Pašek
+authorId:   roman.pasek    
+image:      posts/2018-08-20-sot-program.jpg
 ---
 
 **V červenci koalice Společně otevřeme Třebíč spustila dotazníkové šetření, které zjišťovalo, jaké problémy 
@@ -63,7 +63,8 @@ otevřeme Třebíč,"_ představil hlavní cíle koalice lídr kandidátky Roman
 * **Podpora sportu a kultury**
     Stanislav Neuman, Zdeněk Jakšík, Martin Tomek
 
---------------
+---
+
 **Kontakty pro média:**
 
 Roman Pašek, roman.pasek@pirati.cz, 734 507 329

@@ -1,18 +1,16 @@
 ---
-uid: jaroslav.vysoky
-name:    Jaroslav Vysoký
+uid:          jaroslav.vysoky
+name:         Jaroslav Vysoký
 category:
-  - clenove
   - mstrebicsko
-  - kandidat2018
-description: člen Místního sdružení Třebíčsko
+description:  člen Místního sdružení Třebíčsko
 profession: 
 img: people/jaroslav-vysoky.jpg
 mail:
   - jaroslav.vysoky@pirati.cz
 ---
 
-Jaroslav Vysoký narozen 18. února 1982 v Třebíči, od července 2018 jsem členem Pirátské strany. 
+**Jaroslav Vysoký** narozen 18. února 1982 v Třebíči, od července 2018 členem Pirátské strany. 
 
 Pracuji v technické podpoře malé IT firmy se zaměřením zejména na software pro tiskaře. 
 

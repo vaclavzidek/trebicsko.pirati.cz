@@ -1,19 +1,16 @@
 ---
-uid: jaroslav.zejda
-name: Jaroslav Zejda
+uid:          jaroslav.zejda
+name:         Jaroslav Zejda
 category:
-  - clenove
   - mstrebicsko
-  - kandidat2018
-description: člen Místního sdružení Třebíčsko
+description:  člen Místního sdružení Třebíčsko
 profession: 
 img: people/jaroslav-zejda.jpg
 mail:
   - jaroslav.zejda@pirati.cz
-  
 ---
 
-Jaroslav Zejda (* 25. listopadu 1994) je od června 2018 členem MS Třebíčsko. Jaroslav Zejda pochází z Čechtína (okr. Třebíč), kde žije dodnes.
+**Jaroslav Zejda** (* 25. listopadu 1994) je od června 2018 členem MS Třebíčsko. Jaroslav Zejda pochází z Čechtína (okr. Třebíč), kde žije dodnes.
 
 Vystudoval Střední zemědělskou školu v Třebíči se zaměřením na ekonomiku podniku. Od roku 2015 studuje pětiletý magisterský studijní program Právo a právní věda na Právnické fakultě Masarykovy univerzity v Brně.
 

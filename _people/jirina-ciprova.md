@@ -1,13 +1,11 @@
 ---
-uid: jirina.ciprova            
-name:     Jiřina Ciprová        
-fullname: Jiřina Ciprová      
+uid:          jirina.ciprova                 
+name:         Jiřina Ciprová      
 category:                 
-  - clenove
   - mstrebicsko
 description:  členka Místního sdružení Třebíčsko 
-profession: předsedkyně spolku 
-# img: people/jirina_ciprova.jpg  #
+profession:   předsedkyně spolku 
+img: #people/jirina_ciprova.jpg
 mail:
   - jirina.ciprova@pirati.cz
 profiles:
@@ -15,7 +13,7 @@ profiles:
   web: http://dvornizookoutek.cz 
 ---
 
-Jiřina Ciprová (* 30.listopadu 1967 ve Valašském Meziříčí) je členem MS Třebíčsko. 
+**Jiřina Ciprová** (* 30.listopadu 1967 ve Valašském Meziříčí) je členem MS Třebíčsko. 
 
 Pochází z Rožnova pod Radhoštěm, přezdívaného _"srdce  Valašska"_, ležícího v Beskydech.
 Vyrůstala v Praze, kde žila do roku 1997, v letech 1997-2012 bydlela na Nymbursku.  Od roku 2012 žije na Vysočině, v 
@@ -38,4 +36,4 @@ zahradní a krajinná tvorba, pořádání odpočinkových aktivit, environment�
 
 **Piráti:**
 * od června 2018 členem
-* červenec 2018 člen pirátské posádky na závodech Dračích lodí v Telči
+* červenec 2018 člen pirátské posádky na závodech **Dračích lodí v Telči**

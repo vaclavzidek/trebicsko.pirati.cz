@@ -2,7 +2,6 @@
 uid:          jan.posvar
 name:         Jan Pošvář  	# běžně používáné jméno
 category:
-  - clenove
   - pks
   - poslanec
 ordpks:       5

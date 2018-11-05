@@ -6,7 +6,7 @@ category:
   - mstrebicsko
 description:  člen Místního sdružení Třebíčsko
 profession:   
-img: #people/ivan-muzik.jpg
+img: people/ivan-muzik.jpg
 mail:
   - ivan.muzik@pirati.cz
 ---

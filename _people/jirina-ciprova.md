@@ -5,11 +5,10 @@ category:
   - mstrebicsko
 description:  členka Místního sdružení Třebíčsko 
 profession:   předsedkyně spolku 
-#img: people/jirina_ciprova.jpg
+#img: people/jirina-ciprova.jpg
 mail:
   - jirina.ciprova@pirati.cz
 profiles:
-  youtube: https://www.youtube.com/ciprovi  
   web: http://dvornizookoutek.cz 
 ---
 

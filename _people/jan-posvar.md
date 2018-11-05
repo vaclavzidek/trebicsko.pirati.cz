@@ -12,6 +12,7 @@ mail:
   - jan.posvar@pirati.cz
 profiles:
   facebook: https://www.facebook.com/ArAx666 
+  
 ---
 
 **Bc. Jan Pošvář** (16. května 1985, Kamenice nad Lipou) je místopředsedou
